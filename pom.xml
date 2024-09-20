@@ -120,11 +120,11 @@
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://3.82.147.227:8082/artifactory/libs-release-local/</url>
+            <url>http://52.201.228.76:8082/artifactory/libs-release-local/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://3.82.147.227:8082/artifactory/libs-snapshot-local/</url>
+            <url>http://52.201.228.76:8082/artifactory/libs-snapshot-local/</url>
         </snapshotRepository>
     </distributionManagement>
 
